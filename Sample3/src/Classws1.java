@@ -7,7 +7,6 @@ public class Classws1
 		// TODO Auto-generated method stub
 		System.out.println("message 2 in classws1");
 		System.out.println("Message4 added in classws1");
-		System.out.println("message6 added in classws1");
 	}
 
 }
