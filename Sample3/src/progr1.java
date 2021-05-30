@@ -10,6 +10,8 @@ public class progr1 {
 	} */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		System.out.println("message1");
 		int[] arr=new int[4];
 		arr[0]=10;
 		arr[1]=12;
